@@ -337,6 +337,33 @@ SDK 提供方：深圳市腾讯计算机系统有限公司
 第三方SDK提供方：移动安全联盟
 隐私政策链接：http://www.msa-alliance.cn/col.jsp?id=120
 
+5.7.7第三方SDK名称：快手联盟SDK
+服务类型：
+广告投放、广告归因、反作弊、安全、广告交互
+收集个人信息类型：
+设备品牌、设备型号、软件系统版本、存储信息、运营商信息、设备时区、设备语言、网络信息等基础信息
+设备标识:
+IMEI、MEID、OAID、Androidld、IMSI、ICCID、
+位置信息:
+IP 地址、MAC地址、GPS 位置信息、基站信息、WIFI 信息
+应用信息:应用安装列表
+其他信息: 传感器信息 (加速度、重力、陀螺仪传感器)、sim卡激活信息
+权限信息：
+android.permissiOn.INTERNET
+android.permission.ACCESS NETWORK STATE
+用途和目的
+获取网络权限、读写存储权限用于投放广告。
+android.permission.ACCESS WIFI STATE
+android.permissiOn.READ EXTERNAL STORAGE
+android.permission.WRITE EXTERNAL STORAGEandroid.permissiOn.READ PHONE STATE
+android.permissiOn.REQUEST INSTALL PACKAGES
+获取用户设备的 IMEI，通过IMEI对用户进行唯一标识以便提供服务。
+获取安装权限，用于统计数据
+android.permission.ACCESS COARSE LOCATIONandroid.permission.ACCESS FINE LOCATION
+获取位置信息，用于精准广告投放
+第三方SDK提供方：北京快手科技有限公司
+隐私政策链接：https://u.kuaishou.com/home/h
+
 6.您的权利
 
 我们非常重视您对个人信息的管理，并尽全力保护您对于您个人信息的查询、访问、修改、删除、撤回同意授权、注销帐号、投诉举报以及设置隐私功能等权利，以使您有能力保障您的隐私和信息安全。
